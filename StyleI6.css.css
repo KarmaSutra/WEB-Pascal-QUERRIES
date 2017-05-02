@@ -1,0 +1,43 @@
+@media screen and (max-width: 667px) {
+
+.suivant{
+
+	float: right;
+}
+
+body{
+
+	margin:0px;
+	padding:0px;
+	justify-content: center;
+
+
+
+
+
+	background:url(image/background_CV.jpg);
+	background-size: 200%;
+
+}
+
+a{
+
+	color: red;
+}
+
+.t{
+
+	text-decoration: underline;
+}
+
+.conteneur{
+
+	font-style: italic;
+}
+
+.smile{
+
+	justify-content: center;
+}
+
+}

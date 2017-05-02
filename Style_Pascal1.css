@@ -1,0 +1,27 @@
+.suivant{
+
+	float: right;
+
+}
+
+
+body{
+	margin:0px;
+	padding:0px;
+	justify-content: center;
+
+
+	background:url(image/background_CV.jpg);
+	background-size: 100%;
+
+}
+
+a{
+
+	color: red;
+}
+
+.t{
+
+	text-decoration: underline;
+}

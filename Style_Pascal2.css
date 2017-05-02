@@ -1,0 +1,32 @@
+.suivant{
+
+	float: right;
+
+}
+
+
+body{
+
+	background:url(image/background_CV.jpg);
+	background-size: 100%;
+	margin:0px;
+	padding:0px;
+	justify-content: center;
+
+
+}
+
+.t{
+
+	text-decoration: underline;
+}
+
+.conteneur{
+
+	font-style: italic;
+}
+
+a{
+
+	color: red;
+}

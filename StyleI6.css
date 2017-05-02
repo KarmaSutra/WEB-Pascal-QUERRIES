@@ -1,0 +1,41 @@
+@media only screen and (max-device-width: 667px){
+
+
+
+body{
+
+	margin:0px;
+	padding:0px;
+	justify-content: center;
+
+
+
+
+
+	background:url(image/background_CV.jpg);
+	background-size: 200%;
+
+}
+
+a{
+
+	color: red;
+	font-size: 20px;
+}
+
+.t{
+
+	text-decoration: underline;
+}
+
+.conteneur{
+
+	font-style: italic;
+}
+
+.smile{
+
+	justify-content: center;
+}
+
+}
